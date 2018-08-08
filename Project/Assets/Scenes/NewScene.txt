@@ -1,0 +1,7 @@
+When you decide to create more levels:
+
+Copy+Paste from "CopyLevel"
+
+Change:
+UIManager(Object)->UIManager(AttatchedScript)->"LevelName" Variable
+Menus->Start->Title
