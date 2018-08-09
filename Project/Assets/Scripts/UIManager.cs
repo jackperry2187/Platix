@@ -192,4 +192,15 @@ public class UIManager : MonoBehaviour {
             return;
         }
     }
+
+    public void loadNextLevel()
+    {
+        string currentScene = SceneManager.GetActiveScene().name;
+        string levelText = currentScene.Substring(0, 5);
+        string levelNum = currentScene.Substring(5, 1);
+        int levelNumber = int.Parse(levelNum);
+        int newLevelNum = levelNumber + 1;
+
+        SceneManager.LoadScene("" + levelText + newLevelNum);
+    }
 }
