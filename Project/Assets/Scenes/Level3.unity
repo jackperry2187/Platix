@@ -8549,13 +8549,13 @@ MonoBehaviour:
   gameScreen: {fileID: 973831087}
   deathScreen: {fileID: 167580212}
   pauseScreen: {fileID: 909934478}
-  finishScreen: {fileID: 0}
+  finishScreen: {fileID: 1406433558}
   levelName: L3HS
   deathCount: {fileID: 1404149058}
   timeToBeat: {fileID: 2020652934}
   time: {fileID: 1227898615}
-  previousTime: {fileID: 0}
-  finishTime: {fileID: 0}
+  previousTime: {fileID: 1393255727}
+  finishTime: {fileID: 1016428795}
   numDeaths: 0
   currentState: 0
   firstTime: 1
