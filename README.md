@@ -1,3 +1,14 @@
 # Platix
+A 2D Unity Platformer
+Jackson Perry 2/6/2019
 
-This is a very simple unity game that I created. The main premise is time, where the best time wins! Of course, the player has to navigate through challenges such as spikes on the ground, walls, and ceilings, as well as spikes attatched to moving flails. The textures are all very simple and quite literally nothing is animated, and there's no sound, so don't expect much, BUT, it's still a game, and I still made it.
+## Setup
+Clone the repository, open the `Version 1.0` folder, and double click `Platix.exe`  
+Controls and features can be found in `README.md` file in the `Version 1.0` folder. 
+
+## Skills Used
+- Unity
+- C#
+- Textures
+- Texture Maps
+- Unity Physics
