@@ -1,5 +1,5 @@
 # Platix
-A 2D Unity Platformer
+A 2D Unity Platformer  
 Jackson Perry 2/6/2019
 
 ## Setup
